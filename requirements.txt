@@ -1,7 +1,7 @@
 easyocr
 Flask
 matplotlib
-opencv_python
+opencv-python==4.5.5.64
 pandas
 Pillow
 protobuf
