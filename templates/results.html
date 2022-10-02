@@ -1,0 +1,41 @@
+
+{% extends "layout.html" %}
+{% block content %}
+<!-- Third Container (Submit damage assessment)  -->
+<style>
+  #boundingbox{
+    width: 750px;
+    height: 750px;
+  }
+</style>
+<div class="container-fluid bg-2 text-center" id="third">
+{% if scroll %}
+<script>
+    document.location.hash = '#' + '{{ scroll }}';
+</script>
+{% endif %}
+    <h3>Text extraction is Complete</h3>
+    <br>
+    <p><img src="{{ url_for('send_file', filename=filename) }}" class="img-thumbnail" id="picture"></p>
+      <h4>Results:</h4>
+
+    <div class="dropdown">
+    <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" id="menu1">Next Steps
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="menu1" style="line-height: 20px;vertical-align:middle;" >
+    <li class="dropdown-header">Next Steps</li>
+    <li><a href={{"/assessment/table"}}>View Extracted table</a></li>
+    <li><a href="./test_10.docx">View extracted text</a></li>
+    <li onclick="window.print()"><a>Print documentation</a></li>
+    <li class="dropdown-header">Next page to be entered</li>
+    <li><a href="{{ url_for('assess') }}">Home</a></li>
+  </ul></div>
+</div>
+
+
+{% endblock %}
+
+<!--
+    <br><p><a href="{{ url_for('assess') }}" class="btn btn-default">
+    Submit Another Damage Assessment Request
+-->

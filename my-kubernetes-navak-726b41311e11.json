@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-kubernetes-navak",
+  "private_key_id": "726b41311e1180d2066fdef791cb148e11d23a1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaop1diSYJa0vc\n1CXsx8QG/gj/beiV/EjR6K6tYzSD5UhddRPGr+Ut15WsRTadDdd50tVGphfEwkb9\nkp/IyTo8wsWAL6mOy8ZTnYOXg3lCoAxqd+EfnzgrXV/wXoCesHtJvu//SKRwoBw/\nLY463GTZbKsm28zyQJqkNh01bQLXQQdF/T8s6rMEqvbxh7MsB+aIeYRisYKSfYdo\nMUDYdrhqfprLynxNMW+Rdd/7ddV7ac/hkE3gTVWU9xtslyrpu73tHvOHoYX7n+OH\n5w+IynmEobS6gzNt/FuSO1B2hEo6i2wb34+88CYBNAeKD3PyJcbPSkQz8eZSmet8\nwVyxNpi1AgMBAAECggEAaf+L9uS+1bM46PvL1UO2tMMl3pzNNiZFscszIOnndIjN\ncE4KQ/pUTMjoDkjSJQuoa649a46sGF8uZtLW99QjkYDGmxLAjHQcF77WpTb/K7+H\ntXigYyHg7BlNoa5XglhCtarGFYkE/HuLpk+yVLQ0irsmMWVANDUBJFr+B0BuL6g4\ndFD7ZGrE5GY+X9tzteJzjbCOLkMK7JBbuIhYduQKMDmq2OvoD8ifLMgrB+n9P2Oj\nwjTlISvXmXXgds2WMFlO1m85taKL6/HLzGh7MpHA5KHUuBLlEHGk9RcAPstSXaof\n9bX93dCwhFThtxjtWPE3O6BHLyKIzeYbNwvrWq0hIwKBgQDuAsyoFPMNJP198kqT\npr32WJUuK4tmt/C6NpO58K7HDm6/elcTUpyR11C6DopSPR78lXdm3zCYldCJZJ4D\n/k2gHuP7vfVVTnXDqBpvaaDbCqM61fZOyN7jD/1UDzF1YsijyrW8bHNc4NVhC4Eb\nQVrHJwltXVw3Qv+xF0TywejcUwKBgQDrKOudyCIMsjkJzyjracPD2R3q2VO1yEpe\neZmvDTndUdSnMD/yKQlvf+wZC6+Bs44g6ncJuLdPaBThv/3I7k+AkyKz+Q/fCeUp\nlddzAYiC0VOPP6qYIfkkc7EEeXByoLQHcO/JOHLnsdP/IDkjyQD6tiS84hm4CHHL\nAbwgJMpV1wKBgQDBJvJxQTcRpsA1MqjE9F9bCP5fzqS9gm7Qn7P5BNLB5fuIVr9N\nhhBb5rGznFMydDmuX5nbmSr12Ta4GTiHIxxZ4lfAF6N+TEMTulthqQYKXLKk77iI\nrUj8WiCK1B2eFsGe8sXTmOtyJ1/i9pQay0nhLtPethI9IpkgXTLuEuFn0wKBgCoX\n2g0VLNse78zMsyNofC1LaOqH2k8Yug8tLxBBitEN+8WtglTDebfmqwlUqSbLUC6e\nKY6o7M8e71X1euUDm2GFdNnIREoFSGroMneYl6nq9E0Y9V1j/2fB+ba2UiWClJcc\nZR+cphzJHQx25SN9sFowTmUtB7OEd3ICLn2GeF1jAoGAaZNhLbxumZd31Z4v3NRV\nKW4qyPbrpl1E9Rvz26XuC6HgZc01tM0iS41VnmcncqtG4i/1h7Elksj7R4lsLTXP\nzt45jBagZRX+dAQN7dJqLOPqyUYvXAAG60PuPoAq19Be2nHHixJj0M3WYoiyrT8W\nR2MHyBJ4gCaJh/1j4yYkrFA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "navak-vision-ai@my-kubernetes-navak.iam.gserviceaccount.com",
+  "client_id": "102898242840977580452",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/navak-vision-ai%40my-kubernetes-navak.iam.gserviceaccount.com"
+}
