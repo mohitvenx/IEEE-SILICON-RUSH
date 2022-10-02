@@ -112,4 +112,4 @@ def uploaded_boxfile(filename):
     return send_from_directory(app.config['BOUNDING_FOLDER'], basename)
 
 
-app.run(host="10.8.52.162",port='8999', use_reloader=True)
+app.run(host="0.0.0.0",port='8000', use_reloader=True)
